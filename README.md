@@ -1,4 +1,7 @@
-Учебный проект - [Определение стоимости автомобилей. Версия 1.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver1.ipynb)
+Учебный проект: 
+
+[Определение стоимости автомобилей. Версия 1.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver1.ipynb)
+
 [Определение стоимости автомобилей. Версия 2.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver2.ipynb)
 
 Инструменты: Python, pandas, numpy, sklearn, ML, кросс-валидация, CatBoost, LGBMRegressor, RandomizedSearchCV, прямое кодирование (OHE), OrdinalEncoder.  
