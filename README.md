@@ -1,8 +1,8 @@
 Учебный проект: 
 
-[Определение стоимости автомобилей. Версия 1.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver1.ipynb) (в т.ч OrdinalEncoder)
+[Определение стоимости автомобилей. Версия 1.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver1.ipynb) (в т.ч OrdinalEncoder) RMSE CatBoost: 1598.9
 
-[Определение стоимости автомобилей. Версия 2.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver2.ipynb)
+[Определение стоимости автомобилей. Версия 2.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver2.ipynb) RMSE CatBoost: 1607.8
 
 Инструменты: Python, pandas, numpy, sklearn, ML, кросс-валидация, CatBoost, LGBMRegressor, RandomizedSearchCV, прямое кодирование (OHE), OrdinalEncoder.  
 
