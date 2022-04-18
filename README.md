@@ -1,6 +1,6 @@
 Учебный проект: 
 
-[Определение стоимости автомобилей. Версия 1.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver1.ipynb)
+[Определение стоимости автомобилей. Версия 1.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver1.ipynb) (в т.ч прямое кодирование (OHE), OrdinalEncoder)
 
 [Определение стоимости автомобилей. Версия 2.](https://github.com/alexsurina/study-project-autos/blob/main/autos_ver2.ipynb)
 
